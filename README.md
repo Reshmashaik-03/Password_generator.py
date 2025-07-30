@@ -1,4 +1,4 @@
-Strong Password Generator
+Strong Password Generator:
 A simple yet robust command-line Python application that generates strong, random passwords based on user-defined criteria. This tool helps users create secure passwords by allowing them to specify length and include various character types such as uppercase letters, lowercase letters, digits, and symbols.
 
 ✨ Features

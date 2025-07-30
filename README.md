@@ -29,7 +29,7 @@ Python 3.x installed on your system.
 Installation
 Clone the repository (or download the script):
 
-git clone https://github.com/Reshmashaik-03/Password_generator.git
+git clone https://github.com/Reshmashaik-03/Password_generator.py
 cd password-generator
 
 

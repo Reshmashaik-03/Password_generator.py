@@ -29,11 +29,9 @@ Python 3.x installed on your system.
 Installation
 Clone the repository (or download the script):
 
-git clone https://github.com/YOUR_USERNAME/password-generator.git
+git clone https://github.com/Reshmashaik-03/password-generator.git
 cd password-generator
 
-
-(Replace YOUR_USERNAME with your actual GitHub username and adjust the repository name if different.)
 
 No external libraries are required as this project uses only built-in Python modules (random, string).
 

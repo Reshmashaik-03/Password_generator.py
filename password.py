@@ -32,7 +32,7 @@ if __name__ == "__main__":
         print("--- Strong Password Generator ---")
         while True:
             try:
-                length = int(input("Enter desired password length (e.g., 12): "))
+                length = int(input("Enter desired password length (e.g., 15): "))
                 if length <= 0:
                     print("Length must be a positive number.")
                     continue
